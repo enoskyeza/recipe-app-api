@@ -1,6 +1,6 @@
 name: Checks
 
-On: [push]
+on: [push]
 
 jobs:
   test-lint:
